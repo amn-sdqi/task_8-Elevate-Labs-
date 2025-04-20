@@ -3,5 +3,7 @@
 ## Objective:
 ### Create a basic interactive dashboard that shows sales performance by product, region, and month.
 ## Tools:
-- Power BI or Tableau (choose one)
-- (Optional: Python + Pandas for cleaning)
+- Power BI
+- Python + Pandas for cleaning
+
+
